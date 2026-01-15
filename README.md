@@ -18,6 +18,10 @@
 <a href="https://www.youtube.com/@Subhajit-C">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Subhajit_C2004/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
 </div>
 
 <br/>
