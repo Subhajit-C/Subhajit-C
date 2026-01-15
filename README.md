@@ -76,7 +76,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
-      <br>GitHub
+      <br>Tailwind
     </td>
   </tr>
 </table>
