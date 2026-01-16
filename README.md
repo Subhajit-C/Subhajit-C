@@ -87,7 +87,7 @@
 
 ---
 
-## 📈 LeetCode Profile
+<h3 align="center">📈 LeetCode Profile</h3>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Subhajit_C2004?ext=heatmap&theme=dark" />
