@@ -84,3 +84,15 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 LeetCode Profile
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Subhajit_C2004?ext=heatmap&theme=dark" />
+</div>
+
+<p align="center">
+  🔗 <a href="https://leetcode.com/u/Subhajit_C2004/" target="_blank"><b>View my LeetCode Profile</b></a>
+</p>
