@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-___
+***
 
 <h3 align="center">🧩 Frameworks & Libraries</h3>
 
@@ -152,7 +152,7 @@ ___
 <h2 align="center">📈 LeetCode Profile</h2>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Subhajit_C2004?ext=heatmap&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/Subhajit_C2004?ext=heatmap&theme=dark"/>
 </div>
 
 <p align="center">
