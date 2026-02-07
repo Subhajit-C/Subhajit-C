@@ -118,7 +118,7 @@
   </tr>
 </table>
 
-<hr style="width:50%; height:1px; margin:auto; border:none; background-color:#d0d7de;" />
+<hr style="width:500; height:0.1px; margin:auto; border:none; background-color:#d0d7de;" />
 
 
 <h3 align="center">💻 Developer Tools</h3>
