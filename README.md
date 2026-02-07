@@ -75,6 +75,31 @@
   </tr>
 </table>
 
+<br>
+
+<h3 align="center">🧩 Frameworks & Libraries</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="./anim/expressjs.gif" width="65" height="65" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
+
 <!-- <table align="center">
   <tr>
     <td align="center" width="96">
