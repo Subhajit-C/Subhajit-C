@@ -206,11 +206,61 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-C&theme=tokyo-night&hide_border=true"/>
-</p>
+<!-- <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-C&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subhajit-C&theme=gruvbox" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subhajit-C&theme=gruvbox" />
+</p> -->
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Subhajit-C">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Subhajit-C&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Subhajit-C">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Subhajit-C&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+---
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-C&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ </h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20matters%20not%20what%20someone%20is%20born%2C%20but%20what%20they%20grow%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
+<!--Footer--> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer" />
+</div>
+
+
+
