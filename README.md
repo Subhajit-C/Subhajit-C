@@ -32,7 +32,7 @@
 
 <!-- <br/> -->
 
-<h3 align="center">👨‍💻 About Me</h3>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
   I'm <b>Subhajit Chakraborty</b>, a <b>Full-Stack Engineer</b> who loves bridging the gap between complex backends and intuitive frontends.<br/>
@@ -40,11 +40,42 @@
   I build, I learn, and I share—constantly striving to create software that matters.
 </p>
 
-<br/>
+---
 
-<h3 align="center">🛠 Core Tech Stack</h3>
+<h2 align="center">🛠 Tech Stack</h2>
+
+<h3 align="center">🚀 Languages</h3>
 
 <table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
+
+<!-- <table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
@@ -89,11 +120,11 @@
       <br>Tailwind
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
-<h3 align="center">📈 LeetCode Profile</h3>
+<h2 align="center">📈 LeetCode Profile</h2>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Subhajit_C2004?ext=heatmap&theme=dark" />
@@ -105,7 +136,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-C&theme=tokyo-night&hide_border=true"/>
