@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-<hr width="50%" align="center">
+<hr style="width:50%; height:1px; margin:auto; border:none; background-color:#d0d7de;" />
 
 <h3 align="center">🧩 Frameworks & Libraries</h3>
 
@@ -100,7 +100,8 @@
   </tr>
 </table>
 
-<hr width="50%" align="center">
+<hr style="width:50%; height:1px; margin:auto; border:none; background-color:#d0d7de;" />
+
 
 <h3 align="center">🗄️ Databases</h3>
 
@@ -117,7 +118,8 @@
   </tr>
 </table>
 
-<hr width="50%" align="center">
+<hr style="width:50%; height:1px; margin:auto; border:none; background-color:#d0d7de;" />
+
 
 <h3 align="center">💻 Developer Tools</h3>
 
