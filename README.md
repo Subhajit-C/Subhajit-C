@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<br/>
+<!-- <br/> -->
 
 <h3 align="center">👨‍💻 About Me</h3>
 
@@ -101,4 +101,17 @@
 
 <p align="center">
   🔗 <a href="https://leetcode.com/u/Subhajit_C2004/" target="_blank"><b>View my LeetCode Profile</b></a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhajit-C&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subhajit-C&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subhajit-C&theme=gruvbox" />
 </p>
