@@ -75,9 +75,7 @@
   </tr>
 </table>
 
-<hr style="width:50%; height:1px; margin:auto; border:none; background-color:#d0d7de;" />
 
-<h3 align="center">🧩 Frameworks & Libraries</h3>
 
 <table align="center">
   <tr>
@@ -86,7 +84,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -100,7 +98,7 @@
   </tr>
 </table>
 
-<hr style="width:50%; height:1px; margin:auto; border:none; background-color:#d0d7de;" />
+
 
 
 <h3 align="center">🗄️ Databases</h3>
@@ -118,7 +116,6 @@
   </tr>
 </table>
 
-<hr style="width:500; height:0.1px; margin:auto; border:none; background-color:#d0d7de;" />
 
 
 <h3 align="center">💻 Developer Tools</h3>
