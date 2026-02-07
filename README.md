@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-<hr width="50%">
+<hr width="50%" align="center">
 
 <h3 align="center">🧩 Frameworks & Libraries</h3>
 
@@ -100,7 +100,7 @@
   </tr>
 </table>
 
-<hr width="50%">
+<hr width="50%" align="center">
 
 <h3 align="center">🗄️ Databases</h3>
 
@@ -117,7 +117,7 @@
   </tr>
 </table>
 
-<hr width="50%">
+<hr width="50%" align="center">
 
 <h3 align="center">💻 Developer Tools</h3>
 
@@ -128,7 +128,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
       <br>GitHub
     </td>
     <td align="center" width="96">
