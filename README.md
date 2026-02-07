@@ -75,7 +75,7 @@
   </tr>
 </table>
 
-***
+<hr width="50%">
 
 <h3 align="center">🧩 Frameworks & Libraries</h3>
 
@@ -96,6 +96,48 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
       <br>Tailwind
+    </td>
+  </tr>
+</table>
+
+<hr width="50%">
+
+<h3 align="center">🗄️ Databases</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="./anim/mongodb.gif" width="65" height="65" />
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
+
+<hr width="50%">
+
+<h3 align="center">💻 Developer Tools</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="./anim/git.gif" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" />
+      <br>Intellij IDEA
     </td>
   </tr>
 </table>
