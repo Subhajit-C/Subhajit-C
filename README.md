@@ -129,9 +129,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <div style="background:white; display:inline-block; padding:6px; border-radius:8px;">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
-      </div>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" style="bg-color = white"/>
       <br>GitHub
     </td>
     <td align="center" width="96">
