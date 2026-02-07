@@ -24,6 +24,12 @@
 </a>
 </div>
 
+<p align="center">
+  <a href="https://github.com/Subhajit-C">
+    <img src="https://komarev.com/ghpvc/?username=Subhajit-C&label=Profile%20views&color=blueviolet&style=flat-square" />
+  </a>
+</p>
+
 <br/>
 
 <h3 align="center">👨‍💻 About Me</h3>
