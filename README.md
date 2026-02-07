@@ -211,6 +211,6 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subhajit-C&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subhajit-C&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Subhajit-C&theme=gruvbox" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subhajit-C&theme=gruvbox" />
 </p>
